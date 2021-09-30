@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "bitset": "cpp",
+    "chrono": "cpp",
+    "algorithm": "cpp",
+    "new": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "Disabled",
+  "editor.fontSize": 16
+}
