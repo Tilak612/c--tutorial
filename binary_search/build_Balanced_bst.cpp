@@ -52,7 +52,7 @@ void preorder(struct Node* root){
 
     preorder(root->left);
     preorder(root->right);
-};
+}
 int main(){
     int arr[]={10,20,30,40,50};
     
